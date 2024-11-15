@@ -6,6 +6,7 @@
 **À:** Cadets de Première Année  
 **OBJET:** Formation aux Systèmes de Commande des Vaisseaux
 
+
 ## [CONTEXTE DE MISSION]
 L'année est 2424. La Fédération Galactique forme sa nouvelle génération de programmeurs spatiaux. Les systèmes de nos vaisseaux fonctionnent sous BashOS, un dérivé spatial de l'ancien système Unix. En tant que Cadet, vous devez maîtriser la programmation de ces systèmes.
 

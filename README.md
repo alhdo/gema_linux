@@ -23,7 +23,8 @@ L'année est 2424. La Fédération Galactique forme sa nouvelle génération de 
 **Mission:**
 
 ```bash
-#!/bin/bash
+
+ #!/bin/bash
 
 # Définition des variables
 CADET_NAME="$1"

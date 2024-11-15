@@ -21,6 +21,7 @@ L'année est 2424. La Fédération Galactique forme sa nouvelle génération de 
    "Terminal [VOTRE_NOM] initialisé. Prêt pour les ordres."
    ```
 **Mission:**
+
 ```bash
 #!/bin/bash
 

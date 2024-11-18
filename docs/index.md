@@ -244,4 +244,4 @@ L'attribution des points se fera selon la grille suivante :
 - F (<50%) : Insuffisant
 
 # Reference
-- [Mission Interstellaire (Dernier TD)](../README.md)
+- [Mission Interstellaire (Dernier TD)](td/mission_interstellaires.md)
